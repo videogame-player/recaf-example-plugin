@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id "me.videogame.recaf" version "952870550c"
+}
+
+group 'org.example'
+version '1.0.0'
+
+dependencies {
+    implementation "com.github.Col-E:Recaf:2.18.3"
+}
+
+recaf {
+    mainClass("com.example.RecafExamplePlugin")
+}
