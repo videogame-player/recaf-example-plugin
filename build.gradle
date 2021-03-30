@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id "me.videogame.recaf" version "952870550c"
+    id "me.videogame.recaf" version "1.1"
 }
 
 group 'org.example'
