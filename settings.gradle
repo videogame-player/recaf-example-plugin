@@ -1,6 +1,5 @@
 pluginManagement {
     repositories {
-        mavenLocal()
         maven { url "https://jitpack.io/" }
         maven { url "http://files.minecraftforge.net/maven" }
         gradlePluginPortal()
